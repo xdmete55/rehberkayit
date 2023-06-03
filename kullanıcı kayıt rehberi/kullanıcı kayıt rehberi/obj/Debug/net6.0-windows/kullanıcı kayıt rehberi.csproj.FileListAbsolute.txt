@@ -1,0 +1,17 @@
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\bin\Debug\net6.0-windows\kullanıcı kayıt rehberi.exe
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\bin\Debug\net6.0-windows\kullanıcı kayıt rehberi.deps.json
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\bin\Debug\net6.0-windows\kullanıcı kayıt rehberi.runtimeconfig.json
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\bin\Debug\net6.0-windows\kullanıcı kayıt rehberi.dll
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\bin\Debug\net6.0-windows\kullanıcı kayıt rehberi.pdb
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\obj\Debug\net6.0-windows\kullanıcı kayıt rehberi.csproj.AssemblyReference.cache
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\obj\Debug\net6.0-windows\kullanıcı_kayıt_rehberi.Form1.resources
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\obj\Debug\net6.0-windows\kullanıcı kayıt rehberi.csproj.GenerateResource.cache
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\obj\Debug\net6.0-windows\kullanıcı kayıt rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\obj\Debug\net6.0-windows\kullanıcı kayıt rehberi.AssemblyInfoInputs.cache
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\obj\Debug\net6.0-windows\kullanıcı kayıt rehberi.AssemblyInfo.cs
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\obj\Debug\net6.0-windows\kullanıcı kayıt rehberi.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\obj\Debug\net6.0-windows\kullanıcı kayıt rehberi.dll
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\obj\Debug\net6.0-windows\refint\kullanıcı kayıt rehberi.dll
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\obj\Debug\net6.0-windows\kullanıcı kayıt rehberi.pdb
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\obj\Debug\net6.0-windows\kullanıcı kayıt rehberi.genruntimeconfig.cache
+C:\Users\Metehan\source\repos\kullanıcı kayıt rehberi\kullanıcı kayıt rehberi\obj\Debug\net6.0-windows\ref\kullanıcı kayıt rehberi.dll
